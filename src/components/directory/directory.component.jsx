@@ -50,7 +50,7 @@ class Directory extends React.Component {
         },
         {
           title: "Pants",
-          imageUrl: "https://s3.amazonaws.com/proper-media/merch/42fba00125891700219461209c817be8.jpg",
+          imageUrl: "https://images.405magazine.com/wp-content/uploads/2022/09/waldemar-brandt-GbveIG8YKMk-unsplash-746x418.jpg",
           size: "large",
           id: 7,
           linkUrl: ''
